@@ -1,0 +1,5 @@
+{
+  "name": "Tool tạo ảnh AFL",
+  "description": "Ứng dụng thử đồ ảo và xem trước sản phẩm thời trang sử dụng Gemini API & Imagen Models.",
+  "requestFramePermissions": []
+}
